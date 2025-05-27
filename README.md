@@ -316,15 +316,15 @@
 <body>
   <div class="container" role="main" aria-label="Portfolio Profile">
     <header>
-      <h1>Your Name</h1>
-      <p>Full Stack Developer & Designer</p>
-      <div class="profile-img" tabindex="0" aria-label="Profile picture of Your Name">
-        <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Your Name Profile Picture" />
+      <h1>Your madhu Kumari</h1>
+      <p>Full Stack Developer & studentb</p>
+      <div class="profile-img" tabindex="0" aria-label="Profile picture of Your Madhu kumari ">
+        <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Your madhu Kumari Profile Picture" />
       </div>
     </header>
     <section class="bio" aria-label="About me">
       <p>
-        Passionate developer with 5+ years of experience building sleek, user-friendly web applications. Skilled in JavaScript, React, Node.js, and UI/UX design. I create delightful digital experiences that engage and inspire.
+        Passionate developer with 1  years of experience building sleek, user-friendly web applications. Skilled in JavaScript, React, Node.js, and UI/UX design. I create delightful digital experiences that engage and inspire.
       </p>
     </section>
     <section class="skills" aria-label="Technical skills">
@@ -382,8 +382,8 @@
     <section class="contact" aria-label="Contact information">
       <h2>Contact Me</h2>
       <div>
-        <a href="mailto:your.email@example.com" aria-label="Send email"><svg style="width:24px;height:24px;vertical-align:middle;fill:#f39c12;" viewBox="0 0 24 24"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 2-8 5-8-5h16Zm0 12H4V8l8 5 8-5v10Z"/></svg></a>
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener" aria-label="GitHub Profile"><svg style="width:24px;height:24px;vertical-align:middle;fill:#f39c12;" viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-3.16 19.49c0.5 0.09 0.68-0.22 0.68-0.49 0-0.24-0.01-0.87-0.01-1.71-2.77 0.6-3.36-1.34-3.36-1.34-0.46-1.17-1.11-1.48-1.11-1.48-0.91-0.62 0.07-0.61 0.07-0.61 1 0.07 1.54 1.04 1.54 1.04 0.9 1.54 2.37 1.09 2.94 0.83 0.09-0.65 0.35-1.09 0.64-1.34-2.21-0.25-4.53-1.11-4.53-4.95 0-1.09 0.39-1.98 1.03-2.68-0.1-0.25-0.45-1.26 0.1-2.63 0 0 0.84-0.27 2.75 1.02a9.54 9.54 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02 0.55 1.37 0.2 2.38 0.1 2.63 0.64 0.7 1.03 1.59 1.03 2.68 0 3.85-2.32 4.7-4.54 4.95 0.36 0.31 0.68 0.92 0.68 1.85 0 1.34-0.01 2.42-0.01 2.75 0 0.27 0.18 0.58 0.69 0.49A10 10 0 0 0 12 2Z"/></svg></a>
+        <a href="mailto:your. madhu Kumari @email.com" aria-label="Send email"><svg style="width:24px;height:24px;vertical-align:middle;fill:#f39c12;" viewBox="0 0 24 24"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 2-8 5-8-5h16Zm0 12H4V8l8 5 8-5v10Z"/></svg></a>
+        <a href="https://github.com/youruser madhu Kumari" target="_blank" rel="noopener" aria-label="GitHub Profile"><svg style="width:24px;height:24px;vertical-align:middle;fill:#f39c12;" viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-3.16 19.49c0.5 0.09 0.68-0.22 0.68-0.49 0-0.24-0.01-0.87-0.01-1.71-2.77 0.6-3.36-1.34-3.36-1.34-0.46-1.17-1.11-1.48-1.11-1.48-0.91-0.62 0.07-0.61 0.07-0.61 1 0.07 1.54 1.04 1.54 1.04 0.9 1.54 2.37 1.09 2.94 0.83 0.09-0.65 0.35-1.09 0.64-1.34-2.21-0.25-4.53-1.11-4.53-4.95 0-1.09 0.39-1.98 1.03-2.68-0.1-0.25-0.45-1.26 0.1-2.63 0 0 0.84-0.27 2.75 1.02a9.54 9.54 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02 0.55 1.37 0.2 2.38 0.1 2.63 0.64 0.7 1.03 1.59 1.03 2.68 0 3.85-2.32 4.7-4.54 4.95 0.36 0.31 0.68 0.92 0.68 1.85 0 1.34-0.01 2.42-0.01 2.75 0 0.27 0.18 0.58 0.69 0.49A10 10 0 0 0 12 2Z"/></svg></a>
         <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener" aria-label="LinkedIn Profile"><svg style="width:24px;height:24px;vertical-align:middle;fill:#f39c12;" viewBox="0 0 24 24"><path d="M20.45 20.45h-3.55V14.5c0-1.42-0.03-3.25-1.98-3.25-1.98 0-2.28 1.54-2.28 3.13v6.07H10.04V9h3.41v1.56h0.05c0.48-0.9 1.65-1.85 3.39-1.85 3.63 0 4.3 2.39 4.3 5.5v6.72ZM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13Zm1.78 13.01H3.56V9h3.56v11.44ZM22.22 0H1.78A1.77 1.77 0 0 0 0 1.78v20.44A1.77 1.77 0 0 0 1.78 24h20.44a1.77 1.77 0 0 0 1.78-1.78V1.78A1.77 1.77 0 0 0 22.22 0Z"/></svg></a>
       </div>
     </section>
